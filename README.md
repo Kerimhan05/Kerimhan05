@@ -28,4 +28,4 @@ ___
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-ffffff?style=for-the-badge&logo=WhatsApp)](https://wa.me/89995339823)
 
 <a href="mailto:ramazanovkerimhan05@gmail.com">![Email](https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail)</a>
-<a href="tel:+79286722279">![Телефон](https://img.shields.io/badge/-Телефон-ffffff?style=for-the-badge)</a>
+<a href="tel:+79286722279;">![Телефон](https://img.shields.io/badge/-Телефон-ffffff?style=for-the-badge)</a>
