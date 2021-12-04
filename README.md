@@ -20,12 +20,12 @@ ___
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=ffff00)
 ![React](https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=React&logoColor=0000ff)
 ![Git](https://img.shields.io/badge/-Github-ffffff?style=for-the-badge&logo=Github&logoColor=000)
-
+___
 
 
 ### My works
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
-
+___
 
 
 ### My contacts
@@ -36,7 +36,7 @@ ___
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-ffffff?style=for-the-badge&logo=WhatsApp)](https://wa.me/89995339823)
 
 <a href="mailto:ramazanovkerimhan05@gmail.com">![Email](https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail)</a>
-
+___
 <!-- <a href="tel:+79286722279;">![Телефон](https://img.shields.io/badge/-Телефон-ffffff?style=for-the-badge)</a> -->
 
 
