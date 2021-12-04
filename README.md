@@ -22,9 +22,10 @@ ___
 ![Git](https://img.shields.io/badge/-Github-ffffff?style=for-the-badge&logo=Github&logoColor=000)
 
 ### My contacts
-![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=0000ff)
+[![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://tlgg.ru/ramazanov20)
 [![Вконтакте](https://img.shields.io/badge/-Вконтакте-ffffff?style=for-the-badge&logo=Vk&logoColor=0000ff)](https://vk.com/kerimhan05)
-![Instagram](https://img.shields.io/badge/-Инстаграм-ffffff?style=for-the-badge&logo=Instagram)
-![WhatsApp](https://img.shields.io/badge/-WhatsApp-ffffff?style=for-the-badge&logo=WhatsApp)
-![Email](https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail)
+[![Instagram](https://img.shields.io/badge/-Инстаграм-ffffff?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ramazanov.kkk/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-ffffff?style=for-the-badge&logo=WhatsApp)](https://wa.me/89995339823)
+
+<a href="mailto:ramazanovkerimhan05@gmail.com">![Email](https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail)</a>
 ![Телефон](https://img.shields.io/badge/-Телефон-ffffff?style=for-the-badge)
