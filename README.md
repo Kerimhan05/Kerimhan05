@@ -19,3 +19,12 @@ ___
 ![БЭМ](https://img.shields.io/badge/-БЭМ-0000ff?style=for-the-badge&logo=&)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=ffff00)
 ![React](https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=React&logoColor=0000ff)
+![Git](https://img.shields.io/badge/-Github-ffffff?style=for-the-badge&logo=Github&logoColor=000)
+
+### My contacts
+![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=0000ff)
+[![Вконтакте](https://img.shields.io/badge/-Вконтакте-ffffff?style=for-the-badge&logo=Vk&logoColor=0000ff)](https://vk.com/kerimhan05)
+![Instagram](https://img.shields.io/badge/-Инстаграм-ffffff?style=for-the-badge&logo=Instagram)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-ffffff?style=for-the-badge&logo=WhatsApp)
+![Email](https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail)
+![Телефон](https://img.shields.io/badge/-Телефон-ffffff?style=for-the-badge)
