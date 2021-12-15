@@ -21,7 +21,7 @@ ___
 
 
 <a name="technologies"></a>
-
+<br>
 ### Technologies and tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
@@ -36,7 +36,7 @@ ___
 
 
 <a name="works"></a>
-
+<br>
 ### My works
 
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
@@ -47,7 +47,7 @@ ___
 
 
 <a name="about"></a>
-
+<br>
 ### My contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://tlgg.ru/ramazanov20)
