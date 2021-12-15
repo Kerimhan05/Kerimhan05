@@ -9,7 +9,7 @@ Hello, world!
 <span>Мои сильные стороны - желание развиваться в сфере "Программирование", умение мотивировать себя, быстро учиться</span>
 
 ___
-<a href="#site"></a>
+<a href="#site">My</a>
 ### Technologies and tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
