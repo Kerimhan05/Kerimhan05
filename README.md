@@ -9,7 +9,7 @@ Hello, world!
 <span>Мои сильные стороны - желание развиваться в сфере "Программирование", умение мотивировать себя, быстро учиться</span>
 
 ___
-
+<a href="#site"></a>
 ### Technologies and tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
@@ -24,9 +24,10 @@ ___
 
 
 ### My works
+<a name="site"></a>
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site2.jpg)](https://kerimhan05.github.io/site2/)
-[![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site2.jpg)](https://kerimhan05.github.io/site2/)
+
 ___
 
 
