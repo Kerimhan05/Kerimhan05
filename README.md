@@ -31,8 +31,8 @@ ___
 ![БЭМ](https://img.shields.io/badge/-БЭМ-0000ff?style=for-the-badge&logo=&)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=ffff00)
 ![React](https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=React&logoColor=0000ff)
-![JQuery](https://img.shields.io/badge/-JQuery-ffffff?style=for-the-badge&logo=JQuery&logoColor=000)
-![Git](https://img.shields.io/badge/-Github-ffffff?style=for-the-badge&logo=Github&logoColor=000)
+![JQuery](https://img.shields.io/badge/-JQuery-ffffff?style=for-the-badge&logo=JQuery&logoColor=0000ff)
+![Git](https://img.shields.io/badge/-Github-ffffff?style=for-the-badge&logo=Git&logoColor=ff0000)
 ___
 
 
