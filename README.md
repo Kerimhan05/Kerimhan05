@@ -1,4 +1,8 @@
 ![Header](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/my__logo.png)
+```
+Hello, world!
+```
+---
 ### Navigation
 * <a href="#about">About myself</a>
 * <a href="#works">My works</a>
@@ -7,12 +11,9 @@
 * <a href="#contacts">My contacts</a>
 
 
-```
-Hello, world!
-```
 <a name="about"></a>
 <br>
-## About myself
+## <span style="color:red">About myself</span>
 <p>Меня зовут Рамазанов Керимхан, мне 20 лет, я из Дагестана</p>
 <p>В 2019 году я закончил среднюю образовательную школу. Я решил, что лучшее решение - получить высшее образование и поступил в ДГУНХ по специальности "Информационная базопасность"</p>
 <span>Мои сильные стороны - желание развиваться в сфере "Программирование", умение мотивировать себя, быстро учиться</span>
@@ -22,7 +23,7 @@ ___
 
 <a name="technologies"></a>
 <br>
-### Technologies and tools
+### <span style="color:red">Technologies and tools</span>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-fff?style=for-the-badge&logo=CSS3&logoColor=0000ff)
@@ -38,7 +39,7 @@ ___
 
 <a name="works"></a>
 <br>
-### My works
+### <span style="color:red">My works</span>
 
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site2.jpg)](https://kerimhan05.github.io/site2/)
@@ -49,7 +50,7 @@ ___
 
 <a name="contacts"></a>
 <br>
-### My contacts
+### <span style="color:red">My contacts</span>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://tlgg.ru/ramazanov20)
 [![Вконтакте](https://img.shields.io/badge/-Вконтакте-ffffff?style=for-the-badge&logo=Vk&logoColor=0000ff)](https://vk.com/kerimhan05)
