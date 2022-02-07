@@ -40,21 +40,22 @@ ___
 
 <a name="works"></a>
 <a name="landingsOnePage"></a><br>
-### <span style="color:red">My works</span><br>
+### My works<br>
 <span>Для просмотра нажмите на соответствующую картинку</span>
 
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/maket.png)](https://kerimhan05.github.io/CatShop/)
 
 ___
-### Многостраничные сайты
+
 <a name="landingsManyPage"></a><br>
+### Многостраничные сайты
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site2.jpg)](https://kerimhan05.github.io/site2/)
 
 
 <a name="contacts"></a>
 <br>
-### <span style="color:red">My contacts</span>
+### My contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=0000ff)](https://tlgg.ru/ramazanov20)
 [![Вконтакте](https://img.shields.io/badge/-Вконтакте-ffffff?style=for-the-badge&logo=Vk&logoColor=0000ff)](https://vk.com/kerimhan05)
