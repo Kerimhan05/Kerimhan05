@@ -38,9 +38,11 @@ ___
 
 
 <a name="works"></a>
-<span>Для просмотра нажмите на соответствующую картинку</span>
+
 <br>
 ### <span style="color:red">My works</span>
+<span>Для просмотра нажмите на соответствующую картинку</span>
+
 <a name="landings"></a>
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site2.jpg)](https://kerimhan05.github.io/site2/)
