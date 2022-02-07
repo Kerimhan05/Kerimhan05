@@ -43,7 +43,7 @@ ___
 <a name="landings"></a>
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site2.jpg)](https://kerimhan05.github.io/site2/)
-[![site](https://github.com/Kerimhan05/CatShop/blob/master/assets/maket.png)](https://kerimhan05.github.io/CatShop/)
+[![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/maket.png)](https://kerimhan05.github.io/CatShop/)
 
 ___
 
