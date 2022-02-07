@@ -38,10 +38,12 @@ ___
 
 
 <a name="works"></a>
+
+
 ### <span style="color:red">My works</span><br>
+<a name="landings"></a><br>
 <span>Для просмотра нажмите на соответствующую картинку</span>
 
-<a name="landings"></a>
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site2.jpg)](https://kerimhan05.github.io/site2/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/maket.png)](https://kerimhan05.github.io/CatShop/)
