@@ -6,7 +6,7 @@ Hello, world!
 ### Navigation
 * <a href="#about">About myself</a>
 * <a href="#works">My works</a>
-    + Landing
+    + <a href="#landings">Landing</a>
 * <a href="#technologies">Technologies and tools</a>
 * <a href="#contacts">My contacts</a>
 
@@ -40,9 +40,10 @@ ___
 <a name="works"></a>
 <br>
 ### <span style="color:red">My works</span>
-
+<a name="landings"></a>
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site2.jpg)](https://kerimhan05.github.io/site2/)
+[![site](https://github.com/Kerimhan05/CatShop/blob/master/assets/maket.png)](https://kerimhan05.github.io/CatShop/)
 
 ___
 
