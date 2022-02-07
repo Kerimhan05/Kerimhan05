@@ -37,20 +37,10 @@ ___
 ![Git](https://img.shields.io/badge/-Github-ffffff?style=for-the-badge&logo=Git&logoColor=ff0000)
 ___
 
-<a name="works"></a>
-
-
-
-
-
-
-
-
-
-
-
 
 # My works<br>
+
+<a name="works"></a>
 <a name="landingsOnePage"></a><br>
 <span>Для просмотра нажмите на соответствующую картинку</span>
 ### Одностраничные сайты
