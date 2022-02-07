@@ -38,9 +38,7 @@ ___
 
 
 <a name="works"></a>
-
-<br>
-### <span style="color:red">My works</span>
+### <span style="color:red">My works</span><br>
 <span>Для просмотра нажмите на соответствующую картинку</span>
 
 <a name="landings"></a>
