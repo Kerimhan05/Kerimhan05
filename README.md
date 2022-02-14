@@ -8,7 +8,7 @@ Hello, world!
 * <a href="#works">My works</a>
     + <a href="#landingsOnePage">Landing(Одностраничные)</a>
     + <a href="#landingsManyPage">Landing(Многостраничные)</a>
-    + <a href="#VueProjects">Landing(Многостраничные)</a>
+    + <a href="#VueProjects">Projects on Vue</a>
 * <a href="#technologies">Technologies and tools</a>
 * <a href="#contacts">My contacts</a>
 
