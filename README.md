@@ -47,7 +47,7 @@ ___
 ### Одностраничные сайты
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/maket.png)](https://kerimhan05.github.io/CatShop/)
-[![site](https://github.com/Kerimhan05/company/blob/master/assets/deploy-img.png)](https://kerimhan05.github.io/company/)
+[![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/deploy-img.png)](https://kerimhan05.github.io/company/)
 
 ___
 <a name="landingsManyPage"></a><br>
