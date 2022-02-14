@@ -6,8 +6,7 @@ Hello, world!
 ### Navigation
 * <a href="#about">About myself</a>
 * <a href="#works">My works</a>
-    + <a href="#landingsOnePage">Landing(Одностраничные)</a>
-    + <a href="#landingsManyPage">Landing(Многостраничные)</a>
+    + <a href="#landings">Layout</a>
     + <a href="#VueProjects">Projects on Vue</a>
 * <a href="#technologies">Technologies and tools</a>
 * <a href="#contacts">My contacts</a>
@@ -44,14 +43,13 @@ ___
 
 # My works
 <span>Для просмотра нажмите на соответствующую картинку</span>
-<a name="landingsOnePage"></a><br>
+<a name="landings"></a><br>
 ### Одностраничные сайты
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site1.jpg)](https://kerimhan05.github.io/.site/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/maket.png)](https://kerimhan05.github.io/CatShop/)
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/deploy-img.png)](https://kerimhan05.github.io/company/)
 
 ___
-<a name="landingsManyPage"></a><br>
 ### Многостраничные сайты
 [![site](https://github.com/Kerimhan05/Kerimhan05/blob/master/assets/site2.jpg)](https://kerimhan05.github.io/site2/)
 
